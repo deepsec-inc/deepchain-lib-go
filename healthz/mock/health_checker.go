@@ -5,7 +5,7 @@ import (
 	context "context"
 	sync "sync"
 
-	healthz "github.com/hyperledger/fabric-lib-go/healthz"
+	healthz "deepchain-lib-go/healthz"
 )
 
 type HealthChecker struct {
