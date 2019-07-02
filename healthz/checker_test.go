@@ -17,8 +17,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hyperledger/fabric-lib-go/healthz"
-	"github.com/hyperledger/fabric-lib-go/healthz/mock"
+	"deepchain-lib-go/healthz"
+	"deepchain-lib-go/healthz/mock"
 	. "github.com/onsi/gomega"
 )
 
